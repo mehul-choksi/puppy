@@ -7,3 +7,7 @@ func Bark() string {
 func Barks() string {
 	return "Woof! Woof!"
 }
+
+func Version1_1() string {
+	return "Version 1.1"
+}
